@@ -2,7 +2,7 @@
 
 <h3 align="center">🎯 I'm passionate & enthusiastic Software Developing.</h3>
 
-- 🌱 I speak ** English & Amharic** 
+- 🌱 I speak **English & Amharic** 
 
 - 🧑‍💻 Programming languages: **COBOL, Java, JavaScript(ES6/.../ES12), HTML5, CSS, PHP, C#**
 
@@ -10,15 +10,13 @@
 
 - 🧑‍💻 Operating Systems: **Windows 7/8/10/11, Linux Ubuntu**
 
-- 🧑‍💻 Software Tools and IDE: **Eclipse, MySQL Workbench, SQL Server Management Studio, Oracle SQL Developer, XAMPP, VMWare.**
+- 🧑‍💻 Software Tools and IDE: **Eclipse, MySQL Workbench, SQL Server Management Studio, Oracle SQL Developer, XAMPP, VMWare, Adobe Photoshop, Adobe Pro, Final Cut**
 
 - 🧑‍💻 Scripting Language: **Batch, Shell Script**
 
 - 🧑‍💻 Version Control tools: **Git, GitHub**
 
 - 🔥 Interested in **Web developing.**
-
-- 🤝 I’m looking to collaborate on **open source project.**
 
 - 📫 How to reach me **kebe0014@algonquinlive.com** or **Hanakebede92@gmail.com**
 
